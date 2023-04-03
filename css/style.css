@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Underdog&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Roboto:wght@100;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Underdog&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Roboto:wght@100;400;700&display=swap'); 
 
 * {
     margin: 0;
@@ -45,7 +45,7 @@ footer {
     margin: 3em auto;
     background-color: #fff;
     border-radius: 2em;
-    box-shadow: 5px 5px 10px 2px #222;
+    box-shadow: 5px 5px 10px 2px #222; 
 }
 
 main article {
